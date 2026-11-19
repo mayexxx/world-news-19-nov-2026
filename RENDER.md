@@ -1,0 +1,1 @@
+Rendered `news.html` at 1024 × 1024 using headless Google Chrome with GPU disabled and scrollbars hidden. Verified `main.ts` with Node 22 using two output directories and compared both output hashes with the source PNG.
